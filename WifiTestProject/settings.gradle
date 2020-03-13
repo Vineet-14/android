@@ -1,0 +1,2 @@
+rootProject.name='Wifi Test Project'
+include ':app'
